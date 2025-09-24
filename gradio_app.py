@@ -54,3 +54,5 @@ iface = gr.Interface(
 
 iface.launch(debug=True)
 
+http://127.0.0.1:7860
+
